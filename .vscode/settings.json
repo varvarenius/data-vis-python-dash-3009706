@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./data-vis-python-dash-3009706-main/02_01/hello_world_"
+    ]
+}
