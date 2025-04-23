@@ -1,3 +1,5 @@
+To see my updates check branch "dash-python"
+
 # Data Visualization in Python with Dash
 
 This is the repository for the LinkedIn Learning course `Data Visualization in Python with Dash`. The full course is available from [LinkedIn Learning][lil-course-url].
